@@ -1,0 +1,104 @@
+{
+  "product": "Germany Public Holidays 2025",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-01T12:00:00",
+      "endDate": "2025-01-01T12:00:00",
+      "source": "German Law",
+      "product": "Germany Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of the first day of the year"
+    },
+    {
+      "title": "Good Friday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-18T12:00:00",
+      "endDate": "2025-04-18T12:00:00",
+      "source": "German Law",
+      "product": "Germany Public Holidays 2025",
+      "style": "purple",
+      "description": "Christian holiday commemorating the crucifixion of Jesus"
+    },
+    {
+      "title": "Easter Monday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-21T12:00:00",
+      "endDate": "2025-04-21T12:00:00",
+      "source": "German Law",
+      "product": "Germany Public Holidays 2025",
+      "style": "yellow",
+      "description": "Celebration of the resurrection of Jesus"
+    },
+    {
+      "title": "Labour Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-01T12:00:00",
+      "endDate": "2025-05-01T12:00:00",
+      "source": "German Law",
+      "product": "Germany Public Holidays 2025",
+      "style": "red",
+      "description": "International workers' day"
+    },
+    {
+      "title": "Ascension Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-29T12:00:00",
+      "endDate": "2025-05-29T12:00:00",
+      "source": "German Law",
+      "product": "Germany Public Holidays 2025",
+      "style": "teal",
+      "description": "Commemoration of Jesus' ascension into heaven"
+    },
+    {
+      "title": "Whit Monday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-06-09T12:00:00",
+      "endDate": "2025-06-09T12:00:00",
+      "source": "German Law",
+      "product": "Germany Public Holidays 2025",
+      "style": "green",
+      "description": "Celebration of the Holy Spirit's descent upon the apostles"
+    },
+    {
+      "title": "German Unity Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-10-03T12:00:00",
+      "endDate": "2025-10-03T12:00:00",
+      "source": "German Law",
+      "product": "Germany Public Holidays 2025",
+      "style": "black",
+      "description": "Celebration of the reunification of Germany in 1990"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-12-25T12:00:00",
+      "endDate": "2025-12-25T12:00:00",
+      "source": "German Law",
+      "product": "Germany Public Holidays 2025",
+      "style": "red",
+      "description": "Celebration of the birth of Jesus Christ"
+    },
+    {
+      "title": "Boxing Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-12-26T12:00:00",
+      "endDate": "2025-12-26T12:00:00",
+      "source": "German Law",
+      "product": "Germany Public Holidays 2025",
+      "style": "blue",
+      "description": "Traditional day for giving gifts to the less fortunate"
+    }
+  ]
+}
